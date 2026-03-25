@@ -1,18 +1,130 @@
-{"id": 1, "nombreSuperheroe": "Spiderman", "nombreReal": "Peter Parker",
- "nombreSociedad": "Vigilante", "edad": 25,
- "planetaOrigen": "Tierra", "debilidad": "Radioactiva",
- "poder": ["Trepar paredes", "Sentido arácnido", "Super fuerza", "Agilidad"], "habilidadEspecial": "Redes de telaraña",
- "aliado": ["Ironman"], "enemigo": ["Duende Verde"]},
-
-{"id": 2, "nombreSuperheroe": "Ironman", "nombreReal": "Tony Stark",
- "nombreSociedad": "Vigilante", "edad": 45, "planetaOrigen": "Tierra","debilidad": "Dependiente de la tecnología",
-"poder": ["Armadura blindada", "Volar", "Lásers"],
-"habilidadEspecial": "Ingeniería avanzada",
-"aliado": ["Spiderman"], "enemigo": ["Mandarín"]},
-
-{"id": 3, "nombreSuperheroe": "Thor", "nombreReal": "Thor Odinson",
-"nombreSociedad": "Dios del Trueno", "edad": 1000,
-"planetaOrigen": "Asgard", "debilidad": "Destruir su martillo",
-"poder": ["Controlar el trueno", "Fuerza sobrehumana", "Inmortal"],
-"habilidadEspecial": "Invocación de tormentas",
-"aliado": ["Loki"], "enemigo": ["Hela"]}
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Lásers"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Vigilante",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control de la ira",
+    "poder": [
+      "Fuerza ilimitada",
+      "Regeneración",
+      "Resistencia extrema"
+    ],
+    "habilidadEspecial": "Transformación por radiación gamma",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Abominación"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Capitan America",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 100,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Moral estricta",
+    "poder": [
+      "Fuerza aumentada",
+      "Velocidad mejorada",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Estrategia de combate",
+    "aliado": [
+      "Ironman",
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Espía",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humana sin poderes",
+    "poder": [
+      "Artes marciales",
+      "Sigilo",
+      "Uso de armas"
+    ],
+    "habilidadEspecial": "Infiltración",
+    "aliado": [
+      "Capitan America"
+    ],
+    "enemigo": [
+      "Taskmaster"
+    ]
+  }
+]

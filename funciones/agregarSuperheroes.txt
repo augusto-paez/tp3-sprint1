@@ -1,20 +1,41 @@
-{"id": 4, "nombreSuperheroe": "Hulk", "nombreReal": "Bruce Banner",
- "nombreSociedad": "Vigilante", "edad": 40,
- "planetaOrigen": "Tierra", "debilidad": "Control de la ira",
- "poder": ["Fuerza ilimitada", "Regeneración", "Resistencia extrema"],
- "habilidadEspecial": "Transformación por radiación gamma",
- "aliado": ["Ironman"], "enemigo": ["Abominación"]},
-
-{"id": 5, "nombreSuperheroe": "Capitan America", "nombreReal": "Steve Rogers",
- "nombreSociedad": "Vigilante", "edad": 100,
- "planetaOrigen": "Tierra", "debilidad": "Moral estricta",
- "poder": ["Fuerza aumentada", "Velocidad mejorada", "Resistencia"],
- "habilidadEspecial": "Estrategia de combate",
- "aliado": ["Ironman", "Spiderman"], "enemigo": ["Red Skull"]},
-
-{"id": 6, "nombreSuperheroe": "Black Widow", "nombreReal": "Natasha Romanoff",
- "nombreSociedad": "Espía", "edad": 35,
- "planetaOrigen": "Tierra", "debilidad": "Humana sin poderes",
- "poder": ["Artes marciales", "Sigilo", "Uso de armas"],
- "habilidadEspecial": "Infiltración",
- "aliado": ["Capitan America"], "enemigo": ["Taskmaster"]}
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Vigilante",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control de la ira",
+    "poder": ["Fuerza ilimitada", "Regeneración", "Resistencia extrema"],
+    "habilidadEspecial": "Transformación por radiación gamma",
+    "aliado": ["Ironman"],
+    "enemigo": ["Abominación"]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Capitan America",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 100,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Moral estricta",
+    "poder": ["Fuerza aumentada", "Velocidad mejorada", "Resistencia"],
+    "habilidadEspecial": "Estrategia de combate",
+    "aliado": ["Ironman", "Spiderman"],
+    "enemigo": ["Red Skull"]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Espía",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Humana sin poderes",
+    "poder": ["Artes marciales", "Sigilo", "Uso de armas"],
+    "habilidadEspecial": "Infiltración",
+    "aliado": ["Capitan America"],
+    "enemigo": ["Taskmaster"]
+  }
+]
